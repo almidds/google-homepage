@@ -1,0 +1,1 @@
+I'm currently working through the Odin Project's course on web development. This is an exercise in HTML/CSS in which I will recreate the google homepage.
